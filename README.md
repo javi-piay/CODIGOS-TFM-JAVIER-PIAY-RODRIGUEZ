@@ -1,11 +1,11 @@
 **Reconocimiento facial**
 
-Este archivo contiene el código del modelo de reconocimiento facial y el envío de datos a arduino Cloud.
+Este archivo contiene el código del modelo de reconocimiento facial y el envío de datos a arduino Cloud. 
 Código adaptado de Tutorial: [Reconocimiento Facial con Machine Learning en Python](https://www.codificandobits.com/blog/tutorial-reconocimiento-facial-python/).
 
 **Registro huella dactilar**
 
-Este archivo contiene el código para registrar las huellas dactilares
+Este archivo contiene el código para registrar las huellas dactilares. 
 Código adaptado de [Fingerprint sensor AS608 with UNO](https://forum.arduino.cc/t/fingerprint-sensor-as608-with-uno/1118222).
 
 **Control de acceso dactilar**
