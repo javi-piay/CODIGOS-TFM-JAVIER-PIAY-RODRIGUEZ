@@ -10,7 +10,7 @@ Código adaptado de [Fingerprint sensor AS608 with UNO](https://forum.arduino.cc
 
 **Control de acceso dactilar**
 
-Este archivo contiene el código para leer y comparar las huellas dactilares alamcenadas y para la creación de un servidor web que actualiza el estado del lector dactilar.
+Este archivo contiene el código para leer y comparar las huellas dactilares almacenadas y para la creación de un servidor web que actualiza el estado del lector dactilar.
 
 **Control del sistema de seguridad Arduino Cloud**
 
