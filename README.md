@@ -1,11 +1,10 @@
 Reconocimiento facial
 
 Este archivo contiene el código del modelo de reconocimiento facial y el envío de datos a arduino Cloud.
-Código adaptado de Tutorial: Tutorial: Reconocimiento Facial con Machine Learning en Python.
+
 Registro huella dactilar
 
 Este archivo contiene el código para registrar las huellas dactilares
-Código adaptado de Fingerprint sensor AS608 with UNO.
 
 Control de acceso dactilar
 
