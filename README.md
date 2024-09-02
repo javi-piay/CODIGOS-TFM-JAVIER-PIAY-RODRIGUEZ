@@ -1,7 +1,5 @@
 Reconocimiento facial
-
 Este archivo contiene el código del modelo de reconocimiento facial y el envío de datos a arduino Cloud.
-
 Código adaptado de Tutorial: Reconocimiento Facial con Machine Learning en Python.
 
 Registro huella dactilar
