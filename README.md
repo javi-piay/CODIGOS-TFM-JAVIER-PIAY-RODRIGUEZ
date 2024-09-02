@@ -13,3 +13,5 @@ Este archivo contiene el código para leer y comparar las huellas dactilares ala
 Control del sistema de seguridad Arduino Cloud
 
 Este archivo contiene el código en Arduino Cloud que permite manejar todo el sistema de seguridad.
+
+frozen_inference_graph_face (Modelo MobileNet)
