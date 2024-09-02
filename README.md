@@ -15,7 +15,7 @@ Este archivo contiene el código para leer y comparar las huellas dactilares ala
 
 Este archivo contiene el código en Arduino Cloud que permite manejar todo el sistema de seguridad.
 
-**MobileNet**
+**MobileNet:**
 frozen_inference_graph_face
 
 [FaceNet](https://pypi.org/project/keras-facenet/)
